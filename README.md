@@ -74,7 +74,7 @@ python3 iso_creator.py
 ## Suggested Project Structure
 
 ``` text
-Universal-Linux-Live-ISO-Creator/
+Linux-System-ISO-Cloner/
 ├── iso_creator.py
 ├── README.md
 ├── LICENSE
