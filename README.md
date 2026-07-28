@@ -91,10 +91,7 @@ Add your chosen license here (e.g., MIT, GPL-3.0) and include the corresponding 
 
 ---
 
-### Suggested repository settings (GitHub "About" section — not part of this README)
 
-**Description:**
-> Universal graphical Linux ISO creator with automatic dependency installation, multilingual support, and Penguins-Eggs integration.
 
 **Topics:**
 `linux` `iso` `livecd` `penguins-eggs` `python` `tkinter` `backup` `cloning` `remaster` `linux-tools` `desktop-application`
