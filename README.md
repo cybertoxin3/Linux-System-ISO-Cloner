@@ -55,7 +55,7 @@ git clone https://github.com/YOUR_USERNAME/Universal-Linux-Live-ISO-Creator.git
 
 cd Universal-Linux-Live-ISO-Creator
 
-python3 ParrotKlonla.py
+python3 iso_creator.py
 ```
 
 
