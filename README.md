@@ -75,13 +75,8 @@ python3 iso_creator.py
 
 ``` text
 Universal-Linux-Live-ISO-Creator/
-├── ParrotKlonla.py
-├── parrot-iso-klonlayici.desktop
+├── iso_creator.py
 ├── README.md
-├── LICENSE
-├── requirements.txt
-├── screenshots/
-└── assets/
 ```
 
 
