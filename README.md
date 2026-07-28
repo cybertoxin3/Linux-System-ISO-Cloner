@@ -53,7 +53,7 @@ It is designed for users who want to:
 ``` bash
 git clone https://github.com/cybertoxin3/Linux-System-ISO-Cloner.git
 
-cd Universal-Linux-Live-ISO-Creator
+cd Linux-System-ISO-Cloner
 
 python3 iso_creator.py
 ```
