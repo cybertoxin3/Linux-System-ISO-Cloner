@@ -7,7 +7,7 @@ import datetime
 import tkinter as tk
 from tkinter import messagebox, simpledialog, scrolledtext, ttk, filedialog
 
-# 15 Popüler Dil Sözlüğü
+# 14 Popüler Dil Sözlüğü
 LANGUAGES = {
     "Türkçe": {
         "title": "Evrensel Linux Canlı ISO Oluşturucu", "info": "Bu uygulama sisteminizi birebir içeren açılabilir bir ISO üretecektir.",
