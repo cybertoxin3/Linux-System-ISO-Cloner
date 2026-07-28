@@ -19,7 +19,8 @@ LANGUAGES = {
         "log_building": "[SİSTEM] Canlı ISO imajı inşa ediliyor (Bu işlem uzun sürebilir)...\n", "log_moving": "[SİSTEM] ISO dosyası seçtiğiniz konuma taşınıyor...\n",
         "log_success": "[BAŞARILI] İşlem tamamlandı! ISO dosyanız hazır.\n", "msg_success": "Sistem başarıyla klonlandı! ISO dosyası şu konumda:",
         "btn_show_term": "Terminali Göster", "btn_hide_term": "Terminali Gizle",
-        "save_dialog_title": "ISO Dosyasını Kaydet", "time_elapsed": "Geçen süre:", "time_remaining": "Tahmini kalan süre:", "time_calculating": "Hesaplanıyor..."
+        "save_dialog_title": "ISO Dosyasını Kaydet", "time_elapsed": "Geçen süre:", "time_remaining": "Tahmini kalan süre:", "time_calculating": "Hesaplanıyor...",
+        "btn_copy_log": "Logu Kopyala", "log_copied_msg": "Terminal içeriği panoya kopyalandı."
     },
     "English": {
         "title": "Universal Linux Live ISO Creator", "info": "This app will produce a bootable ISO containing an exact clone of your system.",
@@ -31,7 +32,8 @@ LANGUAGES = {
         "log_building": "[SYSTEM] Building Live ISO image (This might take a while)...\n", "log_moving": "[SYSTEM] Moving ISO file to chosen location...\n",
         "log_success": "[SUCCESS] Process completed! Your ISO file is ready.\n", "msg_success": "System cloned successfully! ISO file is at:",
         "btn_show_term": "Show Terminal", "btn_hide_term": "Hide Terminal",
-        "save_dialog_title": "Save ISO File", "time_elapsed": "Elapsed:", "time_remaining": "Estimated remaining:", "time_calculating": "Calculating..."
+        "save_dialog_title": "Save ISO File", "time_elapsed": "Elapsed:", "time_remaining": "Estimated remaining:", "time_calculating": "Calculating...",
+        "btn_copy_log": "Copy Log", "log_copied_msg": "Terminal content copied to clipboard."
     },
     "Español": {
         "title": "Creador Universal de ISO en Vivo de Linux", "info": "Esta aplicación producirá una ISO de arranque que contiene un clon exacto.",
@@ -43,7 +45,8 @@ LANGUAGES = {
         "log_building": "[SISTEMA] Creando imagen ISO en vivo (Esto puede tardar)...\n", "log_moving": "[SISTEMA] Moviendo el archivo ISO a la ubicación elegida...\n",
         "log_success": "[ÉXITO] ¡Proceso completado! Su archivo ISO está listo.\n", "msg_success": "¡Sistema clonado con éxito! El archivo ISO está en:",
         "btn_show_term": "Mostrar Terminal", "btn_hide_term": "Ocultar Terminal",
-        "save_dialog_title": "Guardar archivo ISO", "time_elapsed": "Transcurrido:", "time_remaining": "Restante estimado:", "time_calculating": "Calculando..."
+        "save_dialog_title": "Guardar archivo ISO", "time_elapsed": "Transcurrido:", "time_remaining": "Restante estimado:", "time_calculating": "Calculando...",
+        "btn_copy_log": "Copiar registro", "log_copied_msg": "Contenido de la terminal copiado al portapapeles."
     },
     "Français": {
         "title": "Créateur d'ISO Live Linux Universel", "info": "Cette application produira un ISO amorçable contenant un clone exact.",
@@ -55,7 +58,8 @@ LANGUAGES = {
         "log_building": "[SYSTÈME] Génération de l'image ISO (Cela peut prendre du temps)...\n", "log_moving": "[SYSTÈME] Déplacement du fichier ISO vers l'emplacement choisi...\n",
         "log_success": "[SUCCÈS] Processus terminé! Votre fichier ISO est prêt.\n", "msg_success": "Système cloné avec succès! Le fichier ISO se trouve à:",
         "btn_show_term": "Afficher le terminal", "btn_hide_term": "Masquer le terminal",
-        "save_dialog_title": "Enregistrer le fichier ISO", "time_elapsed": "Écoulé:", "time_remaining": "Restant estimé:", "time_calculating": "Calcul en cours..."
+        "save_dialog_title": "Enregistrer le fichier ISO", "time_elapsed": "Écoulé:", "time_remaining": "Restant estimé:", "time_calculating": "Calcul en cours...",
+        "btn_copy_log": "Copier le journal", "log_copied_msg": "Contenu du terminal copié dans le presse-papiers."
     },
     "Deutsch": {
         "title": "Universeller Linux Live ISO Ersteller", "info": "Diese App erstellt eine bootfähige ISO, die einen exakten Klon enthält.",
@@ -67,7 +71,8 @@ LANGUAGES = {
         "log_building": "[SYSTEM] Live-ISO-Image wird erstellt (Dies kann dauern)...\n", "log_moving": "[SYSTEM] ISO-Datei wird an den gewählten Ort verschoben...\n",
         "log_success": "[ERFOLG] Prozess abgeschlossen! Ihre ISO-Datei ist bereit.\n", "msg_success": "System erfolgreich geklont! Die ISO-Datei befindet sich unter:",
         "btn_show_term": "Terminal anzeigen", "btn_hide_term": "Terminal ausblenden",
-        "save_dialog_title": "ISO-Datei speichern", "time_elapsed": "Verstrichen:", "time_remaining": "Geschätzte Restzeit:", "time_calculating": "Berechne..."
+        "save_dialog_title": "ISO-Datei speichern", "time_elapsed": "Verstrichen:", "time_remaining": "Geschätzte Restzeit:", "time_calculating": "Berechne...",
+        "btn_copy_log": "Protokoll kopieren", "log_copied_msg": "Terminalinhalt in die Zwischenablage kopiert."
     },
     "Italiano": {
         "title": "Creatore ISO Live Linux Universale", "info": "Questa applicazione produrrà un ISO avviabile contenente un clone esatto.",
@@ -79,7 +84,8 @@ LANGUAGES = {
         "log_building": "[SISTEMA] Creazione dell'immagine ISO Live (Può richiedere tempo)...\n", "log_moving": "[SISTEMA] Spostamento del file ISO nella posizione scelta...\n",
         "log_success": "[SUCCESSO] Processo completato! Il file ISO è pronto.\n", "msg_success": "Sistema clonato con successo! Il file ISO si trova in:",
         "btn_show_term": "Mostra Terminale", "btn_hide_term": "Nascondi Terminale",
-        "save_dialog_title": "Salva file ISO", "time_elapsed": "Trascorso:", "time_remaining": "Rimanente stimato:", "time_calculating": "Calcolo in corso..."
+        "save_dialog_title": "Salva file ISO", "time_elapsed": "Trascorso:", "time_remaining": "Rimanente stimato:", "time_calculating": "Calcolo in corso...",
+        "btn_copy_log": "Copia registro", "log_copied_msg": "Contenuto del terminale copiato negli appunti."
     },
     "Português": {
         "title": "Criador Universal de ISO Live Linux", "info": "Este aplicativo produzirá um ISO inicializável contendo um clone exato.",
@@ -91,7 +97,8 @@ LANGUAGES = {
         "log_building": "[SISTEMA] Construindo imagem ISO Live (Isto pode demorar)...\n", "log_moving": "[SISTEMA] Movendo o arquivo ISO para o local escolhido...\n",
         "log_success": "[SUCESSO] Processo concluído! O arquivo ISO está pronto.\n", "msg_success": "Sistema clonado com sucesso! O arquivo ISO está em:",
         "btn_show_term": "Mostrar Terminal", "btn_hide_term": "Ocultar Terminal",
-        "save_dialog_title": "Salvar arquivo ISO", "time_elapsed": "Decorrido:", "time_remaining": "Restante estimado:", "time_calculating": "Calculando..."
+        "save_dialog_title": "Salvar arquivo ISO", "time_elapsed": "Decorrido:", "time_remaining": "Restante estimado:", "time_calculating": "Calculando...",
+        "btn_copy_log": "Copiar registro", "log_copied_msg": "Conteúdo do terminal copiado para a área de transferência."
     },
     "Русский": {
         "title": "Универсальный создатель Live ISO для Linux", "info": "Это приложение создаст загрузочный ISO, содержащий точную копию.",
@@ -103,7 +110,8 @@ LANGUAGES = {
         "log_building": "[СИСТЕМА] Сборка Live ISO образа (Это может занять время)...\n", "log_moving": "[СИСТЕМА] Перемещение ISO файла в выбранное место...\n",
         "log_success": "[УСПЕХ] Процесс завершен! Ваш ISO файл готов.\n", "msg_success": "Система успешно клонирована! ISO файл находится по пути:",
         "btn_show_term": "Показать терминал", "btn_hide_term": "Скрыть терминал",
-        "save_dialog_title": "Сохранить файл ISO", "time_elapsed": "Прошло:", "time_remaining": "Осталось (примерно):", "time_calculating": "Вычисление..."
+        "save_dialog_title": "Сохранить файл ISO", "time_elapsed": "Прошло:", "time_remaining": "Осталось (примерно):", "time_calculating": "Вычисление...",
+        "btn_copy_log": "Скопировать журнал", "log_copied_msg": "Содержимое терминала скопировано в буфер обмена."
     },
     "中文": {
         "title": "通用 Linux Live ISO 生成器", "info": "此应用程序将生成一个包含系统精确克隆的启动 ISO。",
@@ -115,7 +123,8 @@ LANGUAGES = {
         "log_building": "[系统] 正在构建 Live ISO 镜像 (这可能需要一些时间)...\n", "log_moving": "[系统] 正在将 ISO 文件移动到所选位置...\n",
         "log_success": "[成功] 流程完成！您的 ISO 文件已准备就绪。\n", "msg_success": "系统克隆成功！ISO 文件位于:",
         "btn_show_term": "显示终端", "btn_hide_term": "隐藏终端",
-        "save_dialog_title": "保存 ISO 文件", "time_elapsed": "已用时间:", "time_remaining": "预计剩余:", "time_calculating": "计算中..."
+        "save_dialog_title": "保存 ISO 文件", "time_elapsed": "已用时间:", "time_remaining": "预计剩余:", "time_calculating": "计算中...",
+        "btn_copy_log": "复制日志", "log_copied_msg": "终端内容已复制到剪贴板。"
     },
     "日本語": {
         "title": "万能 Linux Live ISO クリエイター", "info": "このアプリは、システムの完全なクローンを含む起動可能なISOを作成します。",
@@ -127,7 +136,8 @@ LANGUAGES = {
         "log_building": "[システム] Live ISOイメージを構築中 (時間がかかる場合があります)...\n", "log_moving": "[システム] ISOファイルを選択した場所に移動中...\n",
         "log_success": "[成功] プロセス完了！ISOファイルの準備ができました。\n", "msg_success": "システムのクローンに成功しました！ISOファイルの場所:",
         "btn_show_term": "ターミナルを表示", "btn_hide_term": "ターミナルを非表示",
-        "save_dialog_title": "ISOファイルを保存", "time_elapsed": "経過時間:", "time_remaining": "推定残り時間:", "time_calculating": "計算中..."
+        "save_dialog_title": "ISOファイルを保存", "time_elapsed": "経過時間:", "time_remaining": "推定残り時間:", "time_calculating": "計算中...",
+        "btn_copy_log": "ログをコピー", "log_copied_msg": "ターミナルの内容をクリップボードにコピーしました。"
     },
     "한국어": {
         "title": "범용 Linux Live ISO 생성기", "info": "이 앱은 시스템의 정확한 클론을 포함하는 부팅 가능한 ISO를 생성합니다.",
@@ -139,7 +149,8 @@ LANGUAGES = {
         "log_building": "[시스템] Live ISO 이미지를 빌드 중입니다 (시간이 걸릴 수 있습니다)...\n", "log_moving": "[시스템] ISO 파일을 선택한 위치로 이동 중...\n",
         "log_success": "[성공] 프로세스 완료! ISO 파일이 준비되었습니다.\n", "msg_success": "시스템이 성공적으로 클론되었습니다! ISO 파일 위치:",
         "btn_show_term": "터미널 보기", "btn_hide_term": "터미널 숨기기",
-        "save_dialog_title": "ISO 파일 저장", "time_elapsed": "경과 시간:", "time_remaining": "예상 남은 시간:", "time_calculating": "계산 중..."
+        "save_dialog_title": "ISO 파일 저장", "time_elapsed": "경과 시간:", "time_remaining": "예상 남은 시간:", "time_calculating": "계산 중...",
+        "btn_copy_log": "로그 복사", "log_copied_msg": "터미널 내용이 클립보드에 복사되었습니다."
     },
     "العربية": {
         "title": "منشئ أقراص Linux Live ISO العالمي", "info": "سيعمل هذا التطبيق على إنتاج نسخة ISO قابلة للإقلاع تحتوي على نسخة مطابقة لنظامك.",
@@ -151,7 +162,8 @@ LANGUAGES = {
         "log_building": "[النظام] جاري بناء صورة Live ISO (قد يستغرق هذا بعض الوقت)...\n", "log_moving": "[النظام] جاري نقل ملف ISO إلى الموقع المختار...\n",
         "log_success": "[نجاح] اكتملت العملية! ملف ISO جاهز.\n", "msg_success": "تم استنساخ النظام بنجاح! ملف ISO موجود في:",
         "btn_show_term": "إظهار الطرفية", "btn_hide_term": "إخفاء الطرفية",
-        "save_dialog_title": "حفظ ملف ISO", "time_elapsed": "الوقت المنقضي:", "time_remaining": "الوقت المتبقي المقدر:", "time_calculating": "جارٍ الحساب..."
+        "save_dialog_title": "حفظ ملف ISO", "time_elapsed": "الوقت المنقضي:", "time_remaining": "الوقت المتبقي المقدر:", "time_calculating": "جارٍ الحساب...",
+        "btn_copy_log": "نسخ السجل", "log_copied_msg": "تم نسخ محتوى الطرفية إلى الحافظة."
     },
     "हिन्दी": {
         "title": "यूनिवर्सल लिनक्स लाइव ISO क्रिएटर", "info": "यह ऐप आपके सिस्टम का सटीक क्लोन रखने वाला बूट करने योग्य ISO तैयार करेगा।",
@@ -163,7 +175,8 @@ LANGUAGES = {
         "log_building": "[सिस्टम] लाइव ISO इमेज बनाई जा रही है (इसमें कुछ समय लग सकता है)...\n", "log_moving": "[सिस्टम] ISO फ़ाइल को चयनित स्थान पर ले जाया जा रहा है...\n",
         "log_success": "[सफलता] प्रक्रिया पूरी हुई! आपकी ISO फ़ाइल तैयार है।\n", "msg_success": "सिस्टम सफलतापूर्वक क्लोन किया गया! ISO फ़ाइल यहाँ है:",
         "btn_show_term": "टर्मिनल दिखाएं", "btn_hide_term": "टर्मिनल छुपाएं",
-        "save_dialog_title": "ISO फ़ाइल सहेजें", "time_elapsed": "बीता समय:", "time_remaining": "अनुमानित शेष समय:", "time_calculating": "गणना हो रही है..."
+        "save_dialog_title": "ISO फ़ाइल सहेजें", "time_elapsed": "बीता समय:", "time_remaining": "अनुमानित शेष समय:", "time_calculating": "गणना हो रही है...",
+        "btn_copy_log": "लॉग कॉपी करें", "log_copied_msg": "टर्मिनल सामग्री क्लिपबोर्ड पर कॉपी की गई।"
     },
     "Persian": {
         "title": "سازنده جهانی لینوکس لایو ایزو", "info": "این برنامه یک فایل ایزو قابل بوت حاوی شبیه‌سازی دقیق سیستم شما ایجاد می‌کند.",
@@ -175,7 +188,8 @@ LANGUAGES = {
         "log_building": "[سیستم] در حال ساخت ایمیج لایو ایزو (این کار ممکن است طول بکشد)...\n", "log_moving": "[سیستم] در حال انتقال فایل ایزو به مسیر انتخاب‌شده...\n",
         "log_success": "[موفقیت] فرآیند کامل شد! فایل ایزو شما آماده است.\n", "msg_success": "سیستم با موفقیت شبیه‌سازی شد! فایل ایزو در مسیر زیر است:",
         "btn_show_term": "نمایش ترمینال", "btn_hide_term": "مخفی کردن ترمینال",
-        "save_dialog_title": "ذخیره فایل ISO", "time_elapsed": "زمان سپری‌شده:", "time_remaining": "زمان تخمینی باقی‌مانده:", "time_calculating": "در حال محاسبه..."
+        "save_dialog_title": "ذخیره فایل ISO", "time_elapsed": "زمان سپری‌شده:", "time_remaining": "زمان تخمینی باقی‌مانده:", "time_calculating": "در حال محاسبه...",
+        "btn_copy_log": "کپی گزارش", "log_copied_msg": "محتوای ترمینال در کلیپ‌بورد کپی شد."
     },
     "Ukrainian": {
         "title": "Універсальний творець Live ISO для Linux", "info": "Ця програма створить завантажувальний ISO, що містить точну копію системи.",
@@ -187,7 +201,8 @@ LANGUAGES = {
         "log_building": "[СИСТЕМА] Збирання Live ISO образу (Це може зайняти час)...\n", "log_moving": "[СИСТЕМА] Переміщення ISO файлу до обраного місця...\n",
         "log_success": "[УСПІХ] Процес завершено! Ваш ISO файл готовий.\n", "msg_success": "Систему успішно клоновано! ISO файл знаходиться за шляхом:",
         "btn_show_term": "Показати термінал", "btn_hide_term": "Приховати термінал",
-        "save_dialog_title": "Зберегти файл ISO", "time_elapsed": "Минуло:", "time_remaining": "Орієнтовний залишок:", "time_calculating": "Обчислення..."
+        "save_dialog_title": "Зберегти файл ISO", "time_elapsed": "Минуло:", "time_remaining": "Орієнтовний залишок:", "time_calculating": "Обчислення...",
+        "btn_copy_log": "Скопіювати журнал", "log_copied_msg": "Вміст термінала скопійовано в буфер обміну."
     }
 }
 
@@ -271,8 +286,19 @@ def change_language(event=None):
     lbl_status.config(text=lang["status_wait"])
     btn_start.config(text=lang["btn_start"])
     btn_toggle_term.config(text=lang["btn_hide_term"] if terminal_visible else lang["btn_show_term"])
+    btn_copy_log.config(text=lang["btn_copy_log"])
     if not process_running:
         lbl_time.config(text="")
+
+
+def copy_terminal_log():
+    """Terminal ekranındaki tüm metni panoya kopyalar, böylece kolayca yapıştırılıp paylaşılabilir."""
+    lang = LANGUAGES[current_lang]
+    content = text_terminal.get('1.0', tk.END)
+    root.clipboard_clear()
+    root.clipboard_append(content)
+    root.update()  # panoya kopyalanan içeriğin kalıcı olmasını sağlar
+    messagebox.showinfo(lang["cancel_title"], lang["log_copied_msg"])
 
 
 def toggle_terminal():
@@ -530,6 +556,9 @@ lang_combo.bind("<<ComboboxSelected>>", change_language)
 # Terminal Gizle/Göster Butonu
 btn_toggle_term = tk.Button(frame_top, text=LANGUAGES[current_lang]["btn_show_term"], font=("Arial", 8, "bold"), bg="#444444", fg="white", padx=5, command=toggle_terminal)
 btn_toggle_term.pack(side=tk.RIGHT, padx=5)
+
+btn_copy_log = tk.Button(frame_top, text=LANGUAGES[current_lang]["btn_copy_log"], font=("Arial", 8, "bold"), bg="#444444", fg="white", padx=5, command=copy_terminal_log)
+btn_copy_log.pack(side=tk.RIGHT, padx=5)
 
 lbl_title = tk.Label(root, text=LANGUAGES[current_lang]["title"], font=("Arial", 14, "bold"), fg="#FFFFFF", bg="#1e1e1e")
 lbl_title.pack(pady=5)
