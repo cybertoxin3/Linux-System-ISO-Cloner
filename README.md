@@ -77,6 +77,7 @@ python3 iso_creator.py
 Universal-Linux-Live-ISO-Creator/
 ├── iso_creator.py
 ├── README.md
+├── LICENSE
 ```
 
 
