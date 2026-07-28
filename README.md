@@ -20,7 +20,7 @@ It's built for anyone who wants to:
 - 🔍 Automatic Linux distribution detection
 - 📦 Automatic dependency installation
 - 🥚 Automatic Penguins-Eggs installation
-- 🌐 Multilingual interface (15+ languages)
+- 🌐 Multilingual interface (14 languages)
 - 📊 Real-time progress tracking with elapsed/remaining time
 - 🦜 Parrot OS compatibility mode
 - 📋 Copyable terminal log, for easy troubleshooting
