@@ -139,19 +139,6 @@ LANGUAGES = {
         "save_dialog_title": "ISOファイルを保存", "time_elapsed": "経過時間:", "time_remaining": "推定残り時間:", "time_calculating": "計算中...",
         "btn_copy_log": "ログをコピー", "log_copied_msg": "ターミナルの内容をクリップボードにコピーしました。"
     },
-    "한국어": {
-        "title": "범용 Linux Live ISO 생성기", "info": "이 앱은 시스템의 정확한 클론을 포함하는 부팅 가능한 ISO를 생성합니다.",
-        "status_wait": "상태: 대기 중...", "btn_start": "시스템을 ISO로 클론", "pwd_title": "비밀번호 필요",
-        "pwd_msg": "root (sudo) 비밀번호를 입력하십시오:", "cancel_title": "취소됨", "cancel_msg": "비밀번호가 입력되지 않았습니다.",
-        "btn_progress": "처리 중...", "log_check": "[시스템] 검사를 시작합니다...\n", "log_detected": "[시스템] 감지된 Linux 기반: ",
-        "log_pkg": "[시스템] 필수 패키지 및 종속성 설치 중...\n", "log_eggs_missing": "[시스템] 'eggs' 도구를 찾을 수 없습니다. 컴파일을 시작합니다...\n",
-        "log_eggs_ok": "[시스템] 'eggs'가 성공적으로 설치되었습니다! 클로닝을 시작합니다...\n", "log_parrot": "[시스템] Parrot OS가 감지되었습니다. 호환 모드 활성화...\n",
-        "log_building": "[시스템] Live ISO 이미지를 빌드 중입니다 (시간이 걸릴 수 있습니다)...\n", "log_moving": "[시스템] ISO 파일을 선택한 위치로 이동 중...\n",
-        "log_success": "[성공] 프로세스 완료! ISO 파일이 준비되었습니다.\n", "msg_success": "시스템이 성공적으로 클론되었습니다! ISO 파일 위치:",
-        "btn_show_term": "터미널 보기", "btn_hide_term": "터미널 숨기기",
-        "save_dialog_title": "ISO 파일 저장", "time_elapsed": "경과 시간:", "time_remaining": "예상 남은 시간:", "time_calculating": "계산 중...",
-        "btn_copy_log": "로그 복사", "log_copied_msg": "터미널 내용이 클립보드에 복사되었습니다."
-    },
     "العربية": {
         "title": "منشئ أقراص Linux Live ISO العالمي", "info": "سيعمل هذا التطبيق على إنتاج نسخة ISO قابلة للإقلاع تحتوي على نسخة مطابقة لنظامك.",
         "status_wait": "الحالة: في الانتظار...", "btn_start": "استنساخ النظام إلى ISO", "pwd_title": "كلمة المرور مطلوبة",
