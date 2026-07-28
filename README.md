@@ -51,7 +51,7 @@ It is designed for users who want to:
 ## Installation
 
 ``` bash
-git clone https://github.com/YOUR_USERNAME/Universal-Linux-Live-ISO-Creator.git
+git clone https://github.com/cybertoxin3/Linux-System-ISO-Cloner.git
 
 cd Universal-Linux-Live-ISO-Creator
 
